@@ -1,0 +1,460 @@
+[
+  {
+    "id": 1,
+    "arName": "مجموعة بداية رحلتك (Start Your Journey Pack)",
+    "enName": "Start Your Journey Pack",
+    "price": 1599.99,
+    "img": "634.webp",
+    "category": "packs",
+    "keywords": [
+      "باقة",
+      "مجموعة",
+      "رحلتك",
+      "pack",
+      "journey"
+    ]
+  },
+  {
+    "id": 2,
+    "arName": "فوريفر رويال جيلي (Forever Royal Jelly)",
+    "enName": "Forever Royal Jelly",
+    "price": 168,
+    "img": "036.webp",
+    "category": "supplements",
+    "keywords": [
+      "رويال",
+      "جيلي",
+      "عكبر",
+      "مكمل",
+      "royal",
+      "jelly"
+    ]
+  },
+  {
+    "id": 3,
+    "arName": "سيروم المرطب (Hydrating Serum)",
+    "enName": "Hydrating Serum",
+    "price": 163,
+    "img": "618.webp",
+    "category": "care",
+    "keywords": [
+      "سيروم",
+      "مرطب",
+      "بشرة",
+      "serum",
+      "hydrating"
+    ]
+  },
+  {
+    "id": 4,
+    "arName": "فيتولايز (Vitolize Women)",
+    "enName": "Vitolize Women",
+    "price": 159,
+    "img": "374.webp",
+    "category": "supplements",
+    "keywords": [
+      "فيتولايز",
+      "نساء",
+      "مكمل",
+      "vitolize"
+    ]
+  },
+  {
+    "id": 5,
+    "arName": "فوريفر أكتيك سي (Forever Arctic Sea)",
+    "enName": "Forever Arctic Sea",
+    "price": 168,
+    "img": "376.webp",
+    "category": "supplements",
+    "keywords": [
+      "أكتيك",
+      "أوميغا",
+      "سمك",
+      "arctic",
+      "sea",
+      "omega"
+    ]
+  },
+  {
+    "id": 6,
+    "arName": "فوريفر فايبر (Forever Fiber)",
+    "enName": "Forever Fiber",
+    "price": 153,
+    "img": "464.webp",
+    "category": "weight",
+    "keywords": [
+      "فايبر",
+      "ألياف",
+      "تخسيس",
+      "fiber",
+      "weight"
+    ]
+  },
+  {
+    "id": 7,
+    "arName": "كريم المرطب العميق (Deep Moisturizing Cream)",
+    "enName": "Deep Moisturizing Cream",
+    "price": 153,
+    "img": "651.webp",
+    "category": "care",
+    "keywords": [
+      "كريم",
+      "مرطب",
+      "عميق",
+      "cream",
+      "moisturizing"
+    ]
+  },
+  {
+    "id": 8,
+    "arName": "فوريفر غارسينيا بلس (Forever Garcinia Plus)",
+    "enName": "Forever Garcinia Plus",
+    "price": 146,
+    "img": "071.webp",
+    "category": "weight",
+    "keywords": [
+      "غارسينيا",
+      "تخسيس",
+      "حرق",
+      "garcinia"
+    ]
+  },
+  {
+    "id": 9,
+    "arName": "ألو بيو-سللوز ماسك (Aloe Bio-cellulose Mask)",
+    "enName": "Aloe Bio-cellulose Mask",
+    "price": 144,
+    "img": "664.webp",
+    "category": "care",
+    "keywords": [
+      "ماسك",
+      "قناع",
+      "بشرة",
+      "mask",
+      "cellulose"
+    ]
+  },
+  {
+    "id": 10,
+    "arName": "ألو إم إس إم جل (Aloe MSM Gel)",
+    "enName": "Aloe MSM Gel",
+    "price": 123,
+    "img": "205.webp",
+    "category": "care",
+    "keywords": [
+      "إم إس إم",
+      "مفاصل",
+      "جل",
+      "msm",
+      "gel"
+    ]
+  },
+  {
+    "id": 11,
+    "arName": "زيت الشعر المغذي (Nourishing Hair Oil)",
+    "enName": "Nourishing Hair Oil",
+    "price": 126,
+    "img": "642.webp",
+    "category": "care",
+    "keywords": [
+      "زيت",
+      "شعر",
+      "مغذي",
+      "oil",
+      "hair"
+    ]
+  },
+  {
+    "id": 12,
+    "arName": "شامبو ألو جوجوبا (Aloe Jojoba Shampoo)",
+    "enName": "Aloe Jojoba Shampoo",
+    "price": 102,
+    "img": "640.webp",
+    "category": "care",
+    "keywords": [
+      "شامبو",
+      "جوجوبا",
+      "شعر",
+      "shampoo",
+      "jojoba"
+    ]
+  },
+  {
+    "id": 13,
+    "arName": "فوريفر دايلي (Forever Daily)",
+    "enName": "Forever Daily",
+    "price": 93,
+    "img": "439.png",
+    "category": "supplements",
+    "keywords": [
+      "دايلي",
+      "فيتامينات",
+      "daily",
+      "vitamins"
+    ]
+  },
+  {
+    "id": 14,
+    "arName": "ألوفيرا جيلي (Aloe Vera Gelly)",
+    "enName": "Aloe Vera Gelly",
+    "price": 76,
+    "img": "061.webp",
+    "category": "care",
+    "keywords": [
+      "جيلي",
+      "صبار",
+      "ألوفيرا",
+      "gelly",
+      "aloe"
+    ]
+  },
+  {
+    "id": 15,
+    "arName": "ألو هيت لوشن (Aloe Heat Lotion)",
+    "enName": "Aloe Heat Lotion",
+    "price": 76,
+    "img": "064.jpg",
+    "category": "care",
+    "keywords": [
+      "هيت",
+      "لوشن",
+      "مساج",
+      "heat",
+      "lotion"
+    ]
+  },
+  {
+    "id": 16,
+    "arName": "ألو بروبوليس كريم (Aloe Propolis Creme)",
+    "enName": "Aloe Propolis Creme",
+    "price": 101,
+    "img": "051.webp",
+    "category": "care",
+    "keywords": [
+      "بروبوليس",
+      "عكبر",
+      "كريم",
+      "propolis",
+      "creme"
+    ]
+  },
+  {
+    "id": 17,
+    "arName": "فوريفر برايت جل الأسنان (Forever Bright Toothgel)",
+    "enName": "Forever Bright Toothgel",
+    "price": 39,
+    "img": "028.webp",
+    "category": "personal-care",
+    "keywords": [
+      "أسنان",
+      "برايت",
+      "معجون",
+      "toothgel",
+      "bright"
+    ]
+  },
+  {
+    "id": 18,
+    "arName": "ألو لبس مع جوجوبا (Aloe Lips with Jojoba)",
+    "enName": "Aloe Lips with Jojoba",
+    "price": 18,
+    "img": "022.webp",
+    "category": "personal-care",
+    "keywords": [
+      "لبس",
+      "شفاه",
+      "مرطب",
+      "lips",
+      "jojoba"
+    ]
+  },
+  {
+    "id": 19,
+    "arName": "فوريفر جارليك-ثايم (Forever Garlic-Thyme)",
+    "enName": "Forever Garlic-Thyme",
+    "price": 93,
+    "img": "065.webp",
+    "category": "supplements",
+    "keywords": [
+      "ثوم",
+      "زعتر",
+      "جارليك",
+      "garlic",
+      "thyme"
+    ]
+  },
+  {
+    "id": 20,
+    "arName": "فوريفر ثيرم (Forever Therm)",
+    "enName": "Forever Therm",
+    "price": 146,
+    "img": "463.webp",
+    "category": "weight",
+    "keywords": [
+      "ثيرم",
+      "حرق",
+      "طاقة",
+      "therm",
+      "energy"
+    ]
+  },
+  {
+    "id": 21,
+    "arName": "ألو أكتيفيتور (Aloe Activator)",
+    "enName": "Aloe Activator",
+    "price": 77,
+    "img": "612.webp",
+    "category": "care",
+    "keywords": [
+      "أكتيفيتور",
+      "منشط",
+      "activator"
+    ]
+  },
+  {
+    "id": 22,
+    "arName": "فوريفر ألو سكراب (Forever Aloe Scrub)",
+    "enName": "Forever Aloe Scrub",
+    "price": 80,
+    "img": "238.webp",
+    "category": "care",
+    "keywords": [
+      "سكراب",
+      "مقشر",
+      "scrub"
+    ]
+  },
+  {
+    "id": 23,
+    "arName": "ألو فيرست (Aloe First)",
+    "enName": "Aloe First",
+    "price": 101,
+    "img": "040.webp",
+    "category": "care",
+    "keywords": [
+      "فيرست",
+      "بخاخ",
+      "first"
+    ]
+  },
+  {
+    "id": 24,
+    "arName": "ألو موسترايزينغ لوشن (Aloe Moisturizing Lotion)",
+    "enName": "Aloe Moisturizing Lotion",
+    "price": 76,
+    "img": "063.webp",
+    "category": "care",
+    "keywords": [
+      "لوشن",
+      "مرطب",
+      "moisturizing"
+    ]
+  },
+  {
+    "id": 25,
+    "arName": "ألو إيفر-شيلد (Aloe Ever-Shield Deodorant)",
+    "enName": "Aloe Ever-Shield Deodorant",
+    "price": 38,
+    "img": "067.webp",
+    "category": "personal-care",
+    "keywords": [
+      "مزيل",
+      "عرق",
+      "إيفرشيلد",
+      "deodorant",
+      "shield",
+      "067"
+    ]
+  },
+  {
+    "id": 26,
+    "arName": "ألو أفوكادو فايس آند بودي صوب (Aloe Avocado Face & Body Soap)",
+    "enName": "Aloe Avocado Face & Body Soap",
+    "price": 39,
+    "img": "284.webp",
+    "category": "personal-care",
+    "keywords": [
+      "صابون",
+      "أفوكادو",
+      "soap",
+      "avocado"
+    ]
+  },
+  {
+    "id": 27,
+    "arName": "فوريفر ألُوفا (Forever Alofa)",
+    "enName": "Forever Alofa",
+    "price": 152,
+    "img": "643.webp",
+    "category": "care",
+    "keywords": [
+      "ألُوفا",
+      "عطر",
+      "parfum",
+      "alofa"
+    ]
+  },
+  {
+    "id": 28,
+    "arName": "فوريفر مالوسي (Forever Malosi)",
+    "enName": "Forever Malosi",
+    "price": 152,
+    "img": "644.webp",
+    "category": "care",
+    "keywords": [
+      "مالوسي",
+      "عطر",
+      "parfum",
+      "malosi"
+    ]
+  },
+  {
+    "id": 29,
+    "arName": "ألو بودي واش (Aloe Body Wash)",
+    "enName": "Aloe Body Wash",
+    "price": 122,
+    "img": "646.webp",
+    "category": "care",
+    "keywords": [
+      "بودي",
+      "واش",
+      "استحمام",
+      "body",
+      "wash"
+    ]
+  },
+  {
+    "id": 30,
+    "arName": "ألو بودي لوشن (Aloe Body Lotion)",
+    "enName": "Aloe Body Lotion",
+    "price": 122,
+    "img": "647.webp",
+    "category": "care",
+    "keywords": [
+      "بودي",
+      "لوشن",
+      "مرطب",
+      "body",
+      "lotion"
+    ]
+  },
+  {
+    "id": 31,
+    "arName": "فوريفر ألو فيرا جل (Forever Aloe Vera Gel)",
+    "enName": "Forever Aloe Vera Gel",
+    "price": 133,
+    "img": "815.webp",
+    "category": "drinks",
+    "keywords": [
+      "عصير",
+      "صبار",
+      "ألوفيرا",
+      "جل",
+      "aloe",
+      "vera",
+      "gel",
+      "drink",
+      "815"
+    ]
+  }
+]
